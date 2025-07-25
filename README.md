@@ -13,20 +13,21 @@ The dataset contains 22,000 job listings scraped from Monster.com.
 - `data/raw_jobs.csv` – Raw dataset
 - `clean_monster_jobs.py` – Python script for cleaning
 
-## 💡 Why This Project?
-Because **clean data is everything.**  
-Before analysis or machine learning, you need good data.  
-This project is a hands-on practice in the most essential skill for any data analyst or data scientist.
+## 🚧 Project Status
+
+Still in progress — salary parsing logic is being refined.  
+This is a learning project focused on mastering the **core of data work: cleaning**.
 
 ## ✅ Tools Used
 - Python
 - Pandas
 - Regex
 
-## 🚧 Project Status
+## 💡 Why This Project?
+Because **clean data is everything.**  
+Before analysis or machine learning, you need good data.  
+This project is a hands-on practice in the most essential skill for any data analyst or data scientist.
 
-Still in progress — salary parsing logic is being refined.  
-This is a learning project focused on mastering the **core of data work: cleaning**.
 
 
 ---
