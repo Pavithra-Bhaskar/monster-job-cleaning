@@ -10,7 +10,10 @@ The dataset contains 22,000 job listings scraped from Monster.com.
 - Extracted numeric salary ranges and standardized them (e.g., hourly to yearly)
 
 ## 📁 Files
-- `data/raw_jobs.csv` – Raw dataset
+- `Dataset`
+ **Source**: [Kaggle – US Job Listings from Monster.com](https://www.kaggle.com/datasets/PromptCloudHQ/us-jobs-on-monstercom).
+**File**: Download `monster_com-job_sample.csv` manually.
+**Note**: File too large to include on GitHub.
 - `clean_monster_jobs.py` – Python script for cleaning
 
 ## 🚧 Project Status
